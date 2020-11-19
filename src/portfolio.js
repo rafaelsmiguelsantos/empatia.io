@@ -7,9 +7,9 @@ import emoji from "react-easy-emoji";
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  username: "Soft Skill: Empatia!",
+  username: "Soft Skills: Empatia!",
   title: "Falaaa Devs!",
-  subTitle: emoji("A Soft Skill que vamos conhecer é a Empatia! Em minha opinião ela é essencial para todos nós, principalmente em nossa área, vamos abordar: O que é essa Soft Skill? Como posso ter mais empatia? Por que ela é a melhor soft skill?"),
+  subTitle: emoji("A Soft Skills que vamos conhecer é a Empatia! Em minha opinião ela é essencial para todos nós, principalmente em nossa área, vamos abordar: O que é essa Soft Skill? Como posso ter mais empatia? Por que ela é a melhor soft skill?"),
   //resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
@@ -33,7 +33,7 @@ const skillsSection = {
   title: "O que é empatia? 😀 ",
   subTitle: "Empatia é a habilidade de se colocar no lugar da outra pessoa. Parece simples não é mesmo? Mas colocá-lo em prática requer paciência e dedicação",
   skills: [
-    emoji(" Praticar a empatia requer que não julguemos e encaremos determinada situação considerando apenas a própria perspectiva, experiência e bagagem emocional. Essa soft skill só pode ser exercida se observarmos os problemas e as felicidades pelo ponto de vista da outra pessoa. E não é nada fácil aplicar isso no dia a dia, mas é essencial!"),
+    emoji(" Praticar a empatia requer que não julguemos e encaremos determinada situação considerando apenas a própria perspectiva, experiência e bagagem emocional. Essa soft skills só pode ser exercida se observarmos os problemas e as felicidades pelo ponto de vista da outra pessoa. E não é nada fácil aplicar isso no dia a dia, mas é essencial!"),
     emoji("Hoje com um mercado tão competitivo e nossas rotinas sobrecarregadas de tarefas, quando encontramos pessoas que entendem o que estamos passando e estão dispostas a nos ajudar a resolver nossos problemas, ficamos surpresos não é mesmo? É sobre isso que se trata a empatia! "),
     emoji("Você prefere trabalhar em um ambiente onde seus colegas são egoistas e competitivos, ou prefere trabalhar em uma equipe onde todos deixam de lado o egoísmo e buscam compreender suas dificuldades e tentam ajudar você a melhorar profissionalmente?"),
     emoji("A resposta é clara não é mesmo! 😄 ")
